@@ -10,4 +10,4 @@ Kondisi yang digunakan pada program ini adalah akan ada biaya tambahan :
 
 Setelah itu program akan menampilkan hasilnya di output.
 
-<img width="522" height="171" alt="image" src="https://github.com/user-attachments/assets/32f8ab50-91a0-4391-a5c2-698d131bf548" />
+<img width="610" height="241" alt="image" src="https://github.com/user-attachments/assets/b3907aab-fa82-47a4-bc99-e8689d8a2e6e" />
