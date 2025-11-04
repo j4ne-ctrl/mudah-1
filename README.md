@@ -1,4 +1,4 @@
-# mudah-1
+# PROGRAM HITUNG BIAYA PENGIRIMAN
 
 Dalam program ini, user akan memasukkan berat barang (kg), jarak pengiriman (km), serta ukuran paket (cm), lalu program akan menghitung volume paket dengan rumjs volume = panjang x lebar x tinggi
 
