@@ -1,4 +1,5 @@
 # LANGKAH KERJA PROGRAM HITUNG BIAYA PENGIRIMAN
+Program ini berfungsi untuk menghitung total biaya pengiriman barang berdasarkan berat, jarak dan ukuran paket.
 
 Dalam program ini, user diminta untuk memasukkan berat barang (kg), jarak pengiriman (km), serta ukuran paket (cm), lalu program akan menghitung volume paket dengan rumjs volume = panjang x lebar x tinggi
 
