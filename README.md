@@ -8,4 +8,6 @@ Kondisi yang digunakan pada program ini adalah akan ada biaya tambahan :
    
 2. Berdasarkan volume, jika volume paket lebih dari 100 cm3, akan ada biaya tambahan Rp 50.000
 
+Setelah itu program akan menampilkan hasilnya di output.
+
 <img width="522" height="171" alt="image" src="https://github.com/user-attachments/assets/32f8ab50-91a0-4391-a5c2-698d131bf548" />
