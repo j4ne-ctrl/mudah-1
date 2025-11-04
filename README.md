@@ -1,6 +1,6 @@
 # LANGKAH KERJA PROGRAM HITUNG BIAYA PENGIRIMAN
 
-Dalam program ini, user akan memasukkan berat barang (kg), jarak pengiriman (km), serta ukuran paket (cm), lalu program akan menghitung volume paket dengan rumjs volume = panjang x lebar x tinggi
+Dalam program ini, user diminta untuk memasukkan berat barang (kg), jarak pengiriman (km), serta ukuran paket (cm), lalu program akan menghitung volume paket dengan rumjs volume = panjang x lebar x tinggi
 
 Kondisi yang digunakan pada program ini adalah akan ada biaya tambahan :  
 1. Berdasarkan jarak, jika jarak kurang dari 10 km, maka biaya tambahannya Rp4250/kg, dan jika jarak lebih dari 10 km, maka biaya tambahannya sebanyak Rp6000/kg. (program menghitung total biaya = berat x biayaPerKg)
